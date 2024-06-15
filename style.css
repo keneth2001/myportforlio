@@ -363,9 +363,10 @@ nav.fa-solid{
     }
     .about-col-1{
         margin-bottom: 30px;
+        font-size: 20px;
     }
     .about-col-2{
-        font-size: 40px;
+        font-size: 25px;
     }
     .tab-links{
         font-size: 16px;
@@ -376,6 +377,9 @@ nav.fa-solid{
     }
     .copyright{
         font-size: 14px;
+    }
+    .btn.btn2{
+        align-items: center;
     }
 }
 #msg{
